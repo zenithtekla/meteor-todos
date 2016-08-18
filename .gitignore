@@ -1,1 +1,7 @@
 node_modules/
+.gitignore
+.idea/
+.meteor/
+client/
+package.json
+server/
